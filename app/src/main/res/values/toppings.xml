@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cheese">Cheese</string>
+    <string name="gnPepper">Green Pepper</string>
+    <string name="smoked">Smoked Ham</string>
+    <string name="bkOlives">Black Olives</string>
+    <string name="spOnions">Spanish Onions</string>
+    <string name="no">no extra toppings</string>
+</resources>

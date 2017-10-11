@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/sergiodealmeidabrunacci/.android/build-cache/39be3e02c1fb67b6489cc46b67a9098c78eae5e1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

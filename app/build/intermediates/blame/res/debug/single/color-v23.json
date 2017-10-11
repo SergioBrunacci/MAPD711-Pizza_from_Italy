@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/190161f5d3d3ecb80436fe91596ca8e1f81e7196/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/190161f5d3d3ecb80436fe91596ca8e1f81e7196/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/190161f5d3d3ecb80436fe91596ca8e1f81e7196/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/190161f5d3d3ecb80436fe91596ca8e1f81e7196/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/190161f5d3d3ecb80436fe91596ca8e1f81e7196/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/190161f5d3d3ecb80436fe91596ca8e1f81e7196/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/190161f5d3d3ecb80436fe91596ca8e1f81e7196/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/190161f5d3d3ecb80436fe91596ca8e1f81e7196/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/190161f5d3d3ecb80436fe91596ca8e1f81e7196/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/190161f5d3d3ecb80436fe91596ca8e1f81e7196/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    }
+]

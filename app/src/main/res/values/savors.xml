@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // Pizza flavours
+    <string name="meat">Meat Supreme</string>
+    <string name="hawaiian">Super Hawaiian</string>
+    <string name="veggie">Veggie</string>
+    <string name="mediterranean">Mediterranean</string>
+</resources>
