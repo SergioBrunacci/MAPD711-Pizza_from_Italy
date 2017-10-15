@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="sergiodealmeidabrunacci.pizza_italy.TopsActivity">
+
+    <TextView android:id="@+id/topsQuestTxt"
+        style="@style/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Choose your toppings:"/>
+
+    <CheckBox android:id="@+id/cheeseChkBx"
+        style="@style/text"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Cheese"
+        android:layout_below="@id/topsQuestTxt"/>
+    <CheckBox android:id="@+id/gnPepperChkBx"
+        style="@style/text"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Green Pepper"
+        android:layout_below="@id/cheeseChkBx"/>
+    <CheckBox android:id="@+id/skHamChkBx"
+        style="@style/text"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Smoked Ham"
+        android:layout_below="@id/gnPepperChkBx"/>
+    <CheckBox android:id="@+id/bkOlivesChkBx"
+        style="@style/text"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Black Olives"
+        android:layout_below="@id/skHamChkBx"/>
+    <CheckBox android:id="@+id/spOnionsChkBx"
+        style="@style/text"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Onios"
+        android:layout_below="@id/bkOlivesChkBx"/>
+
+    <Button android:id="@+id/nextButton"
+        style="@style/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/spOnionsChkBx"
+        android:text="Check-Out"/>
+
+</RelativeLayout>

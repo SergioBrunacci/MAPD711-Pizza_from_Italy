@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".SizeActivity" />
+        <activity android:name=".TopsActivity" />
+        <activity android:name=".ClientActivity" />
+        <activity android:name=".CheckOutActivity"></activity>
     </application>
 
 </manifest>

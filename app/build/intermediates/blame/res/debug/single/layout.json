@@ -92,6 +92,10 @@
         "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/190161f5d3d3ecb80436fe91596ca8e1f81e7196/output/res/layout/notification_template_media.xml"
     },
     {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/build/intermediates/res/merged/debug/layout/activity_check_out.xml",
+        "source": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/src/main/res/layout/activity_check_out.xml"
+    },
+    {
         "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
         "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/190161f5d3d3ecb80436fe91596ca8e1f81e7196/output/res/layout/notification_template_lines_media.xml"
     },
@@ -120,12 +124,20 @@
         "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/190161f5d3d3ecb80436fe91596ca8e1f81e7196/output/res/layout/abc_screen_toolbar.xml"
     },
     {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/build/intermediates/res/merged/debug/layout/activity_client.xml",
+        "source": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/src/main/res/layout/activity_client.xml"
+    },
+    {
         "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
         "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/190161f5d3d3ecb80436fe91596ca8e1f81e7196/output/res/layout/notification_action_tombstone.xml"
     },
     {
         "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
         "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/190161f5d3d3ecb80436fe91596ca8e1f81e7196/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/build/intermediates/res/merged/debug/layout/activity_tops.xml",
+        "source": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/src/main/res/layout/activity_tops.xml"
     },
     {
         "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
@@ -154,6 +166,10 @@
     {
         "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
         "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/190161f5d3d3ecb80436fe91596ca8e1f81e7196/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/build/intermediates/res/merged/debug/layout/activity_size.xml",
+        "source": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/src/main/res/layout/activity_size.xml"
     },
     {
         "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",

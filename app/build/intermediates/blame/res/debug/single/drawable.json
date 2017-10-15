@@ -68,6 +68,10 @@
         "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/190161f5d3d3ecb80436fe91596ca8e1f81e7196/output/res/drawable/abc_btn_colored_material.xml"
     },
     {
+        "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/build/intermediates/res/merged/debug/drawable/pizza.jpg",
+        "source": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/src/main/res/drawable/pizza.jpg"
+    },
+    {
         "merged": "/Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
         "source": "/Users/sergiodealmeidabrunacci/.android/build-cache/190161f5d3d3ecb80436fe91596ca8e1f81e7196/output/res/drawable/abc_tab_indicator_material.xml"
     },

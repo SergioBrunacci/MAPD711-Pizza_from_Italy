@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/src/main/AndroidManifest.xml:2:1-25:12
 	package
 		ADDED from /Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/src/main/AndroidManifest.xml:3:5-50
 		INJECTED from /Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/src/main/AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from /Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/
 		INJECTED from /Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/src/main/AndroidManifest.xml
 application
-ADDED from /Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/src/main/AndroidManifest.xml:5:5-19:19
+ADDED from /Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/src/main/AndroidManifest.xml:5:5-23:19
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/sergiodealmeidabrunacci/.android/build-cache/190161f5d3d3ecb80436fe91596ca8e1f81e7196/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/sergiodealmeidabrunacci/.android/build-cache/1cb3b2e94bc0980093699cbf08b6cc0beb903af6/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/sergiodealmeidabrunacci/.android/build-cache/3c822769118f4be6ac4a7137bfbac4ca50c7f308/output/AndroidManifest.xml:29:5-20
@@ -51,6 +51,22 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
 		ADDED from /Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/src/main/AndroidManifest.xml:16:27-74
+activity#sergiodealmeidabrunacci.pizza_italy.SizeActivity
+ADDED from /Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/src/main/AndroidManifest.xml:19:9-50
+	android:name
+		ADDED from /Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/src/main/AndroidManifest.xml:19:19-47
+activity#sergiodealmeidabrunacci.pizza_italy.TopsActivity
+ADDED from /Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/src/main/AndroidManifest.xml:20:9-50
+	android:name
+		ADDED from /Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/src/main/AndroidManifest.xml:20:19-47
+activity#sergiodealmeidabrunacci.pizza_italy.ClientActivity
+ADDED from /Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/src/main/AndroidManifest.xml:21:9-52
+	android:name
+		ADDED from /Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/src/main/AndroidManifest.xml:21:19-49
+activity#sergiodealmeidabrunacci.pizza_italy.CheckOutActivity
+ADDED from /Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/src/main/AndroidManifest.xml:22:9-63
+	android:name
+		ADDED from /Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/src/main/AndroidManifest.xml:22:19-51
 uses-sdk
 INJECTED from /Users/sergiodealmeidabrunacci/AndroidStudioProjects/Pizza_Italy/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/sergiodealmeidabrunacci/.android/build-cache/190161f5d3d3ecb80436fe91596ca8e1f81e7196/output/AndroidManifest.xml:21:5-23:78

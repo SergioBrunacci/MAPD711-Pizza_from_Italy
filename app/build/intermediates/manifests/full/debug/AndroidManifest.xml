@@ -26,6 +26,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="sergiodealmeidabrunacci.pizza_italy.SizeActivity" />
+        <activity android:name="sergiodealmeidabrunacci.pizza_italy.TopsActivity" />
+        <activity android:name="sergiodealmeidabrunacci.pizza_italy.ClientActivity" />
+        <activity android:name="sergiodealmeidabrunacci.pizza_italy.CheckOutActivity" />
     </application>
 
 </manifest>
